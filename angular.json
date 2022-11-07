@@ -2,6 +2,6 @@
   "version": 2,
   "projects": {
     "impl-dep": "apps/impl-dep",
-    "impl-dep-e2e": "apps/impl-dep-e2e"
+    "my-lib": "libs/my-lib"
   }
 }
